@@ -14,8 +14,7 @@ Here's a table of contents to make it easier to find what what you are looking f
 You will be presented with an initial page which contains a new workout button, once you have clicked it you will be redirected to an add page, were you can add your new exercise and see it displayed in the dashboard :)
 
 ## Installation 💻
-Once you are in my gitgub repository for this project, <https://github.com/reginaafc
-/fitness-trackerr
+Once you are in my gitgub repository for this project, <https://github.com/reginaafc/fitness-trackerr
 <br>
 1.- First you need to get the HTTPS or GitHub CLI from the green button in the top right corner that says "Code". 🟢
 <br>
